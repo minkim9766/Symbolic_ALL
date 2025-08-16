@@ -8,4 +8,4 @@ PowerShell 명령어로 **디렉토리 내 모든 파일/폴더에 대한 심볼
 
 ## 사용법
 
-symbolic-all [원본폴더] <대상폴더>
+symbolic-all [-path 원본폴더] <-to 대상폴더> [--delete]
