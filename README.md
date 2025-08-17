@@ -8,11 +8,13 @@ PowerShell, Cmd 명령어로 **디렉토리 내 모든 파일/폴더에 대한 �
 
 ```powershell
 winget install -id minkim9766.symbolic_all
+'''
 
 #### 사용법
 
+'''powershell
 symbolic_all [-path 원본폴더] <-to 대상폴더> [--delete]
-
+'''
 
 # English(영어)
 ## symbolic-all
